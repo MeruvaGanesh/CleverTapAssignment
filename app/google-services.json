@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771304996496",
+    "project_id": "clevertapassignment-371806",
+    "storage_bucket": "clevertapassignment-371806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771304996496:android:e8e51e9f1732d861ede215",
+        "android_client_info": {
+          "package_name": "in.com.clevertapassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771304996496-2hnh5gq4egcoc0kuc3fsb400i27knrhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7BRw_B6-Gbn61WzaIMuU2yzxo3PYw8DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771304996496-2hnh5gq4egcoc0kuc3fsb400i27knrhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
